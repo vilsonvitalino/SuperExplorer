@@ -212,3 +212,7 @@ versionamento.md
 
 # Manter fontes privados (não versionar código)
 /src/
+
+# Ignorar Markdown, exceto README.md
+*.md
+!README.md
