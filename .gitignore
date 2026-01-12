@@ -209,3 +209,6 @@ __marimo__/
 # Excluir documentos específicos do projeto
 PUBLICAR_NO_GITHUB.md
 versionamento.md
+
+# Manter fontes privados (não versionar código)
+/src/
